@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mukkano\\source\\repos\\AccesoHWySO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FA7ED6-EB6D-4B84-85DE-FF65BC91757C}|AccesoHWySO\\AccesoHWySO.csproj|c:\\users\\mukkano\\source\\repos\\accesohwyso\\accesohwyso\\clssystemacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FA7ED6-EB6D-4B84-85DE-FF65BC91757C}|AccesoHWySO\\AccesoHWySO.csproj|solutionrelative:accesohwyso\\clssystemacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 156,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsSystemAcesso.cs",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\source\\repos\\AccesoHWySO\\AccesoHWySO\\clsSystemAcesso.cs",
+              "RelativeDocumentMoniker": "AccesoHWySO\\clsSystemAcesso.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\source\\repos\\AccesoHWySO\\AccesoHWySO\\clsSystemAcesso.cs",
+              "RelativeToolTip": "AccesoHWySO\\clsSystemAcesso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:00:47.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

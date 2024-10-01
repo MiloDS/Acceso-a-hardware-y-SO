@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\acceso a hardware y so\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|solutionrelative:acceso a hardware y so\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|c:\\users\\mukkano\\desktop\\acceso a hardware y so\\implementacion\\acceso a hardware y so\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|solutionrelative:acceso a hardware y so\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\acceso a hardware y so\\frmopprocesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|solutionrelative:acceso a hardware y so\\frmopprocesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\acceso a hardware y so\\frmopprocesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AB82C6-B753-4993-95C7-0DD2F83D8F29}|Acceso a hardware y SO\\Acceso a hardware y SO.csproj|solutionrelative:acceso a hardware y so\\frmopprocesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmOpProcesos.cs",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmOpProcesos.cs",
+              "RelativeDocumentMoniker": "Acceso a hardware y SO\\frmOpProcesos.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmOpProcesos.cs",
+              "RelativeToolTip": "Acceso a hardware y SO\\frmOpProcesos.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwDUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:19:54.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmOpProcesos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmOpProcesos.cs",
+              "RelativeDocumentMoniker": "Acceso a hardware y SO\\frmOpProcesos.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\source\\repos\\Acceso a hardware y SO\\Acceso a hardware y SO\\frmOpProcesos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Acceso a hardware y SO\\Acceso a hardware y SO\\frmOpProcesos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:17:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Acceso a hardware y SO\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmMenu.cs [Design]",
+              "RelativeToolTip": "Acceso a hardware y SO\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:20:32.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Acceso a hardware y SO\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\Mukkano\\Desktop\\Acceso a hardware y SO\\Implementacion\\Acceso a hardware y SO\\frmMenu.cs",
+              "RelativeToolTip": "Acceso a hardware y SO\\frmMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:00:25.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

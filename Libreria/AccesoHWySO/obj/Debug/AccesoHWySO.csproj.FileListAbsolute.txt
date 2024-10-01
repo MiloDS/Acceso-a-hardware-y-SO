@@ -1,0 +1,9 @@
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\bin\Debug\AccesoHWySO.dll
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\bin\Debug\AccesoHWySO.pdb
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\bin\Debug\System.CodeDom.dll
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\bin\Debug\System.CodeDom.xml
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\obj\Debug\AccesoHWySO.csproj.AssemblyReference.cache
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\obj\Debug\AccesoHWySO.csproj.CoreCompileInputs.cache
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\obj\Debug\AccesoHW.B17C0E92.Up2Date
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\obj\Debug\AccesoHWySO.dll
+C:\Users\Mukkano\source\repos\AccesoHWySO\AccesoHWySO\obj\Debug\AccesoHWySO.pdb

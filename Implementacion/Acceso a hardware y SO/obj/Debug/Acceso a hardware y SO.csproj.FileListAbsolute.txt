@@ -1,0 +1,28 @@
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\bin\Debug\Acceso a hardware y SO.exe.config
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\bin\Debug\Acceso a hardware y SO.exe
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\bin\Debug\Acceso a hardware y SO.pdb
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\bin\Debug\AccesoHWySO.dll
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\bin\Debug\AccesoHWySO.pdb
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.csproj.AssemblyReference.cache
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso_a_hardware_y_SO.Properties.Resources.resources
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.csproj.GenerateResource.cache
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.csproj.CoreCompileInputs.cache
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso a.2654BED5.Up2Date
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.exe
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.pdb
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso_a_hardware_y_SO.frmMenu.resources
+C:\Users\Mukkano\source\repos\Acceso a hardware y SO\Acceso a hardware y SO\obj\Debug\Acceso_a_hardware_y_SO.frmOpProcesos.resources
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\bin\Debug\Acceso a hardware y SO.exe.config
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\bin\Debug\Acceso a hardware y SO.exe
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\bin\Debug\Acceso a hardware y SO.pdb
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\bin\Debug\AccesoHWySO.dll
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\bin\Debug\AccesoHWySO.pdb
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.csproj.AssemblyReference.cache
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso_a_hardware_y_SO.frmMenu.resources
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso_a_hardware_y_SO.frmOpProcesos.resources
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso_a_hardware_y_SO.Properties.Resources.resources
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.csproj.GenerateResource.cache
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.csproj.CoreCompileInputs.cache
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso a.2654BED5.Up2Date
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.exe
+C:\Users\Mukkano\Desktop\Acceso a hardware y SO\Implementacion\Acceso a hardware y SO\obj\Debug\Acceso a hardware y SO.pdb
